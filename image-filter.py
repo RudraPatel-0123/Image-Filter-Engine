@@ -15,7 +15,7 @@ from numpy import random
 import skimage as sk
 from skimage import io
 
-image = plt.imread('/Users/admin/Desktop/Programming/Numpy-Pandas/Numpy/Exercies /4677b0ec8305d2d62feb1c1baf714ff6.jpg')
+image = plt.imread('Image Path')
 
 # ---------------------------------------------------------------------------
 # Transformations
